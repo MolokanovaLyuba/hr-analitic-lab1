@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/task1/bin/Debug/net7.0/task1.dll",
+            "program": "${workspaceFolder}/bin/Debug/net7.0/task2.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/task1",
+            "cwd": "${workspaceFolder}",
             "console": "integratedTerminal",
             "stopAtEntry": false
         },
